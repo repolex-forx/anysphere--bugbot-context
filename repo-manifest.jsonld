@@ -8,8 +8,9 @@
     {
       "@id": "https://repolex.ai/r/anysphere/bugbot-context/commit/aa2025ddc3cc22384f48b2d94e618c49302ae406",
       "git:hexsha": "aa2025ddc3cc22384f48b2d94e618c49302ae406",
-      "repolex:parseStatus": "enrich_complete",
-      "git:tagName": "v0.0.5"
+      "repolex:parseStatus": "parsed",
+      "git:tagName": "v0.0.5",
+      "repolex:parsedAt": "2026-10-04T14:36:17.074123+00:00"
     },
     {
       "@id": "https://repolex.ai/r/anysphere/bugbot-context/commit/432f7579e719c8e9e6e2864f8382faa3f75fa648",
