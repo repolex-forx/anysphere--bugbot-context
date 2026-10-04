@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/anysphere/bugbot-context/commit/aa2025ddc3cc22384f48b2d94e618c49302ae406",
       "git:hexsha": "aa2025ddc3cc22384f48b2d94e618c49302ae406",
-      "repolex:parseStatus": "metadata_complete",
+      "repolex:parseStatus": "ast_complete",
       "git:tagName": "v0.0.5"
     },
     {
